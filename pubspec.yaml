@@ -4,3 +4,7 @@ environment:
 dev_dependencies:
   lints: ^5.0.0
   test: ^1.24.0
+dependencies:
+  uno: ^1.1.12
+  equatable: ^2.0.7
+  mocktail: ^1.0.4
